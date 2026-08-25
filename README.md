@@ -1,6 +1,6 @@
 # 🌤️ Weather Widget
 
-> **Status:** 🚧 Under Development / In Planning Phase 🚧
+> **Status:** 🚧 Under Development
 
 > A micro-application designed to retrieve real-time weather data and forecast metrics. Built as a standalone component that will feed environmental conditions into **[Petal Pal](https://github.com/Kelly-Huynh/petal_pal)**.
 

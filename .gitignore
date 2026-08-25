@@ -1,0 +1,18 @@
+# macOS System Files
+.DS_Store
+
+# Editor Configurations
+.vscode/
+
+# Secrets & Environment Variables
+backend/.env
+
+# Python Virtual Environment & Bytecode
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
+
+# Node / Frontend Artifacts (Prepped for future builds)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
